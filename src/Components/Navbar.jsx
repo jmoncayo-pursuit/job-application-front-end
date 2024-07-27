@@ -23,7 +23,7 @@ function NavBar() {
 
   return (
     <nav>
-      <h1>Pursuit's Ultimate Job Tracker</h1>
+      <h1> Job Applicaiton Tracker </h1>
       <ul>
         <li>
           <Link to='/'>Home</Link>
